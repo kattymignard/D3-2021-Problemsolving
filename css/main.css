@@ -8,10 +8,9 @@ body {
 ul {
   list-style-type: none;
 }
-li {
+.states li {
 
-  width: 8vw;
-  height: 8vw;
+  max-width: 8vw;
   margin-left: 1em;
   margin-top: 1em;
 }
