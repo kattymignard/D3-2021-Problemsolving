@@ -41,7 +41,8 @@ text-align: center;
 
 .jouez {
 
-  font-family: 'Raleway' bold;
+  font-family: 'Raleway';
+  font-weight: bold;
   font-size: 6em;
   color: white;
   line-height: 150%;
@@ -52,7 +53,7 @@ text-align: center;
 .choix {
 
   font-family: 'Raleway' ;
-  font-size: 3em;
+  font-size: 2em;
   margin-top: 0.5em;
   color: white;
   text-align: center;
