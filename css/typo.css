@@ -41,7 +41,8 @@ text-align: center;
 
 .jouez {
 
-  font-family: 'Raleway' bold;
+  font-family: 'Raleway';
+  font-weight: bold;
   font-size: 6em;
   color: white;
   line-height: 150%;
