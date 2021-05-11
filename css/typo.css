@@ -17,8 +17,8 @@ p {
 font-family: 'Raleway';
 font-size: 2.5em;
 margin-bottom: 1em;
-margin-left: 10em;
-margin-right: 10em;
+margin-left: 20em;
+margin-right: 20em;
 color: white;
 line-height: 150%;
 text-align: center;
@@ -43,7 +43,7 @@ text-align: center;
 
   font-family: 'Raleway';
   font-weight: bold;
-  font-size: 6em;
+  font-size: 4em;
   color: white;
   line-height: 150%;
   text-align: center;
@@ -53,11 +53,19 @@ text-align: center;
 .choix {
 
   font-family: 'Raleway' ;
-  font-size: 2em;
+  font-size: 3em;
   margin-top: 0.5em;
   color: white;
   text-align: center;
   justify-content: center;
+  line-height: 4em;
+  text-decoration: wavy overline;
 
+  }
+
+
+.bravo {
+
+font-size: 8em;
 
 }
